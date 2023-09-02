@@ -2,8 +2,8 @@
 
 Welcome to TinDog, a visually appealing and user-friendly app where dogs meet and find their furry soulmates! 🐶
 
-[Live Demo
-](https://vishalfirgan.github.io/Tin-Dog-App/)https://vishalfirgan.github.io/Tin-Dog-App/
+[See Live Demo
+](https://vishalfirgan.github.io/Tin-Dog-App/)
 
 This project is primarily focused on frontend design and does not involve backend functionality. Contributions related to design enhancements and improvements are welcome.
 
