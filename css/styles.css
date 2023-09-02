@@ -1,0 +1,168 @@
+#title{
+ background-color:#ff4c68;
+ size:5rem;
+}
+h2{
+  font-size:5rem;
+  padding-top:5%;
+  text-align:center;
+  font-family:"Montserrat-bold"
+ }
+h1{
+ color:#fff;
+ font-size:90px;
+}
+h3{
+ font-family:"Montserrat-bold";
+ font-weight:bold;
+ padding-top:7%;
+ color:black;
+}
+p{
+  color:grey; 
+}
+.brand{
+  font-family: "Montserrat-black", sans-serif;
+  font-size:3rem;
+  line-height:1.5;
+  }
+  .container-fluid{
+    padding:3% 5% 9% 3%;
+  }
+.navbar-brand{
+  font-size:3rem;
+  font-weight:bold;
+  font-family:"Ubuntu";
+}
+.navbar{
+   padding-bottom:4.5rem;
+   padding-left:0%;
+}
+.navbar-item{
+   padding:5% 3% 0 3%;
+   font-family:"Montserrat-light",sans-serif;
+   font-size:2rem
+}
+.download-button{
+  margin:4% 2% 3% 0;
+}
+.feature{
+  text-align:center;
+  padding:5%;
+  color:#e2b6b2;
+}
+#features{
+  padding:7% 15%;
+  background-color:#fff;
+  position:relative;
+  z-index:1;
+}
+.main-image{
+  padding-left: 20px;
+  padding-bottom:10px;
+  transform:rotate(30deg);
+  width:25%;
+  position:absolute;
+  right:15%;
+}
+.feedback:hover
+{ 
+ color:#ff4c68;
+}
+#testimonials{
+ background-color:#ff4c68;
+ text-align:center;
+ font-family:"Montserrat-bold";
+ font-size:5rem;
+ padding: 7% 8%;
+ color:#fff;
+ font-weight:bold;
+ padding-bottom:0;
+ padding-top:5%;
+ padding-left:2%;
+ padding-right:2%;
+}
+.ad{
+  width:10%;
+  padding-top:0;
+}
+.testimonial-image{
+  width:20%;
+  border-radius:100%;
+  margin:2%;
+}
+#press{
+ background-color:#ff4c68;
+ text-align: center;
+ padding-bottom:5% ;
+ padding-right:5%;
+}
+.carousel-item{
+ padding:7% 15%;
+}
+.btn-block{
+ width:100%;
+}
+#pricing{
+  padding:1% 7%;
+  padding-bottom:0;
+}
+.price-column
+{
+  padding:3% 2%;
+  text-align:center;
+}
+/* media */
+
+ @media (max-width:1000px)
+ {
+   .main-image{
+      position:static;
+      transform:rotate(0);
+      padding-top:30px;
+  }
+  #title{
+     text-align:center;
+     font-size:10%;
+  }
+}
+
+/* section of last page i.e footer */
+#cta{
+   background-color:#ff4c68;
+   text-align:center;
+   padding-bottom:3%;
+   padding-top:0;   
+}
+.final{
+   text-align:center;
+  padding-top:7%;
+  padding-left:9%;
+  padding-right:9%;
+  font-size:70px;
+  color:#fff;
+  font-family:"Montserrat-black";
+  margin:10%;
+  margin-bottom:0; 
+ }
+ .plan{
+    text-align:center;
+    padding-top:2%;
+    font-size:3rem;
+}
+.iconsss{
+ text-align:center;
+ padding:70px;
+ padding-bottom:10px;
+}
+.copyright{
+  padding-bottom:50px;
+  padding-top:0;
+  text-align:center;
+}
+.insta,.ld,.tw,.ml{
+   padding:8px;
+}
+.copyright:hover{
+  color:black;
+}
